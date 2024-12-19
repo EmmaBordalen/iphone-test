@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.container {
+    position: relative;
+    width: 393px;
+    min-width: 393px;
+    height: 852px;
+    min-height: 852px;
+
+    border-radius: 30px 60px;
+    background-color: black;
+}
